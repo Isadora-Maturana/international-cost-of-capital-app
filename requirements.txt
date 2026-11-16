@@ -1,0 +1,7 @@
+streamlit>=1.50,<2
+pandas>=2.2,<4
+requests>=2.32,<3
+beautifulsoup4>=4.12,<5
+xlrd>=2.0.2,<3
+pycountry>=24.6,<27
+Babel>=2.17,<3
